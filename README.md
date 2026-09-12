@@ -1,6 +1,6 @@
 <h1>
   Hi There, I'm Omar Ameen
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamsyejIxam42Y2RnYjFvbjE5aXY4djNpaWx0Ynl2c2NlOXZ1cmhoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="25%" style="margin-top:20px;" />
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVpM2RmMno3aGwxYjlmcW0xamwxY2syenhtN2tibzYxODZyMzA2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="25%" style="margin-top:20px;" />
 </h1>
 
 <p>
